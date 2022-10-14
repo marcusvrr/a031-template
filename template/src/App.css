@@ -3,4 +3,15 @@
   text-align: center;
 }
 
-
+.head{
+  background-color: lightblue;
+}
+img{
+  height: 180px;
+  width: 180px;
+}
+.foot{
+  background-color: black;
+  border: 2px solid black;
+  color: brown;
+}
